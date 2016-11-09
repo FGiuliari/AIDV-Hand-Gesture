@@ -1,0 +1,124 @@
+% Hand Tracking log file 10/13/2016 5:12:48 PM
+%
+% parse_left = false
+% parse_right = true
+% sampling_rate = 0.04
+%
+%
+%
+% frame number #0 time: 3.8
+1;invalid_hand;0;3.8;
+% frame number #1 time: 3.84
+1;invalid_hand;1;3.84;
+% frame number #42 time: 4.24
+1;invalid_hand;42;4.24;
+% frame number #52 time: 4.36
+1;invalid_hand;52;4.36;
+% frame number #56 time: 4.4
+1;invalid_hand;56;4.4;
+% frame number #59 time: 4.44
+1;invalid_hand;59;4.44;
+% frame number #64 time: 4.48
+1;invalid_hand;64;4.48;
+% frame number #68 time: 4.52
+1;invalid_hand;68;4.52;
+% frame number #73 time: 4.56
+1;invalid_hand;73;4.56;
+% frame number #76 time: 4.6
+1;invalid_hand;76;4.6;
+% frame number #79 time: 4.64
+1;invalid_hand;79;4.64;
+% frame number #85 time: 4.68
+1;invalid_hand;85;4.68;
+% frame number #88 time: 4.72
+1;invalid_hand;88;4.72;
+% frame number #93 time: 4.76
+1;invalid_hand;93;4.76;
+% frame number #96 time: 4.8
+1;invalid_hand;96;4.8;
+% frame number #101 time: 4.84
+1;invalid_hand;101;4.84;
+% frame number #105 time: 4.88
+1;invalid_hand;105;4.88;
+% frame number #109 time: 4.92
+1;invalid_hand;109;4.92;
+% frame number #113 time: 4.96
+1;invalid_hand;113;4.96;
+% frame number #118 time: 5
+1;invalid_hand;118;5;
+% frame number #119 time: 5.04
+1;invalid_hand;119;5.04;
+% frame number #124 time: 5.08
+1;invalid_hand;124;5.08;
+% frame number #129 time: 5.12
+1;invalid_hand;129;5.12;
+% frame number #133 time: 5.16
+1;invalid_hand;133;5.16;
+% frame number #138 time: 5.2
+1;invalid_hand;138;5.2;
+% frame number #141 time: 5.24
+1;invalid_hand;141;5.24;
+% frame number #145 time: 5.28
+1;invalid_hand;145;5.28;
+% frame number #150 time: 5.32
+1;invalid_hand;150;5.32;
+% frame number #153 time: 5.36
+1;invalid_hand;153;5.36;
+% frame number #158 time: 5.4
+1;invalid_hand;158;5.4;
+% frame number #161 time: 5.44
+1;invalid_hand;161;5.44;
+% frame number #166 time: 5.48
+1;invalid_hand;166;5.48;
+% frame number #170 time: 5.52
+1;invalid_hand;170;5.52;
+% frame number #173 time: 5.56
+1;invalid_hand;173;5.56;
+% frame number #178 time: 5.6
+1;invalid_hand;178;5.6;
+% frame number #182 time: 5.64
+1;invalid_hand;182;5.64;
+% frame number #187 time: 5.68
+1;invalid_hand;187;5.68;
+% frame number #190 time: 5.72
+1;invalid_hand;190;5.72;
+% frame number #193 time: 5.76
+1;invalid_hand;193;5.76;
+% frame number #198 time: 5.8
+1;invalid_hand;198;5.8;
+% frame number #202 time: 5.84
+1;invalid_hand;202;5.84;
+% frame number #207 time: 5.88
+1;invalid_hand;207;5.88;
+% frame number #210 time: 5.92
+1;invalid_hand;210;5.92;
+% frame number #215 time: 5.96
+1;invalid_hand;215;5.96;
+% frame number #219 time: 6
+1;invalid_hand;219;6;
+% frame number #222 time: 6.04
+1;invalid_hand;222;6.04;
+% frame number #227 time: 6.08
+1;invalid_hand;227;6.08;
+% frame number #230 time: 6.12
+1;invalid_hand;230;6.12;
+% frame number #235 time: 6.16
+1;invalid_hand;235;6.16;
+% frame number #239 time: 6.2
+1;invalid_hand;239;6.2;
+% frame number #242 time: 6.24
+1;invalid_hand;242;6.24;
+% frame number #246 time: 6.28
+1;invalid_hand;246;6.28;
+% frame number #251 time: 6.32
+1;invalid_hand;251;6.32;
+% frame number #256 time: 6.36
+1;invalid_hand;256;6.36;
+% frame number #259 time: 6.4
+1;invalid_hand;259;6.4;
+% frame number #264 time: 6.44
+1;invalid_hand;264;6.44;
+% frame number #267 time: 6.48
+1;invalid_hand;267;6.48;
+% frame number #271 time: 6.52
+1;invalid_hand;271;6.52;
