@@ -5,8 +5,8 @@ H=[1 0 0; 0 1 0;0 0 1];
 Q=[0.1 0 0;0 0.1 0;0 0 0.1];
 R=[1 0 0; 0 0 1; 0 0 1];
 zk=[10 10 10]';
-v=zeros(40,1);
-for i=1:40
+v=zeros(10,1);
+for i=1:10
     Pkm=Pk;
     Xkm=Xk;
     Xkhat=A*Xkm;
@@ -17,6 +17,6 @@ for i=1:40
     v(i)=Xk(1);
 end
 figure()
-plot(1:41,[0 ;repmat([10],40,1)])
+plot(1:11,[0 ;repmat([10],10,1)])
 hold on
-plot(1:41,[0 ;v])
+plot(1:11,[0 ;v])

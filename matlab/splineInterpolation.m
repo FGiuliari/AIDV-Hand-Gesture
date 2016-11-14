@@ -19,7 +19,7 @@ A=[A velocity]
 %yy=spline(pos,A',0:1:floor(pos(end)))'
 %yy=interp1(pos,A,0:1:floor(pos(end)),'linear')
 yy=csaps(pos,A',0.2,0:1:floor(pos(end)))'
-
+out=kalFilter(A(:,1:3));
 
 plot(A(:,1),A(:,2),'o')
 hold on
